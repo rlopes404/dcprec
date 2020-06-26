@@ -1,0 +1,9 @@
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+0.733277, 0.733617, 0.249018, 0.353339, 0.433718, 0.590433, 0.769113, 0.437387
+
